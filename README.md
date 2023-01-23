@@ -1,5 +1,7 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE:23.01.2023
+## NAME : ADHITHYA A
+## REF NO: 22001593
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,6 +38,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![EX 5 1](https://user-images.githubusercontent.com/122251223/214109107-754bbe50-5bb2-4da8-84fd-e555e2333d64.png)
 
 
 ## RESULT:
